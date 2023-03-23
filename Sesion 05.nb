@@ -1,0 +1,110 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3454,        102]
+NotebookOptionsPosition[      2427,         76]
+NotebookOutlinePosition[      2828,         92]
+CellTagsIndexPosition[      2785,         89]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Cuaderno de Pr\[AAcute]cticas", "Title",
+ Editable->False,
+ CellChangeTimes->{{3.868971971598065*^9, 3.868971980213727*^9}},
+ TextAlignment->Center,ExpressionUUID->"5fb5ef50-5d08-40ab-8d71-dfc3db3d47ec"],
+
+Cell["ALGEBRA", "Subsubsection",
+ Editable->False,
+ CellChangeTimes->{{3.868971993869012*^9, 3.8689719983378754`*^9}, {
+  3.8850109995366306`*^9, 3.8850110036316147`*^9}},
+ TextAlignment->Center,ExpressionUUID->"d21593bc-69f0-4f4f-8e1c-31cb7b0c2262"],
+
+Cell[CellGroupData[{
+
+Cell["Grado en Ingenier\[IAcute]a Inform\[AAcute]tica", "Subsection",
+ Editable->False,
+ CellChangeTimes->{{3.8689720096069665`*^9, 3.868972021736685*^9}},
+ TextAlignment->Center,ExpressionUUID->"a69912f9-0ff4-4980-84ea-968362691e0f"],
+
+Cell[TextData[StyleBox["CURSO 2022/23.",
+ FontWeight->"Bold"]], "Subsubsection",
+ Editable->False,
+ CellChangeTimes->{{3.8689720269504395`*^9, 3.8689720491169043`*^9}},
+ TextAlignment->Center,
+ FontWeight->"Plain",ExpressionUUID->"95f582e6-62bf-4f27-aa2c-e4ad3afad450"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Datos Personales", "Section",
+ Editable->False,
+ CellChangeTimes->{{3.8689720837430334`*^9, 
+  3.8689720989909277`*^9}},ExpressionUUID->"4f3b20f2-54a1-408c-9eee-\
+8880911ba6d4"],
+
+Cell["\<\
+Nombre y apellidos : Javier Francisco Dibo G\[OAcute]mez
+DNI: 77646884B
+Grupo de teor\[IAcute]a: A
+Grupo de pr\[AAcute]cticas: 2\
+\>", "Text",
+ Editable->False,
+ CellChangeTimes->{{3.868972105184577*^9, 3.868972141703294*^9}, {
+  3.87440594861296*^9, 3.8744059520730815`*^9}, {3.8850110173382835`*^9, 
+  3.885011017464671*^9}},ExpressionUUID->"9e685714-cafe-4e62-a2c9-\
+567b35921789"]
+}, Open  ]],
+
+Cell["Sesion 5", "Section",
+ CellChangeTimes->{{3.8856163288829794`*^9, 3.8856163374047947`*^9}, {
+  3.886825154041218*^9, 
+  3.886825156032879*^9}},ExpressionUUID->"449b47a7-0534-4bd7-8e12-\
+53d1e273af94"]
+}, Open  ]]
+},
+WindowSize->{1141.2, 579.6},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"12.3 para Microsoft Windows (64-bit) (July 9, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"53f1aeda-37a8-42fa-8f81-f9f0e9c565fb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 209, 3, 98, "Title",ExpressionUUID->"5fb5ef50-5d08-40ab-8d71-dfc3db3d47ec"],
+Cell[792, 27, 250, 4, 45, "Subsubsection",ExpressionUUID->"d21593bc-69f0-4f4f-8e1c-31cb7b0c2262"],
+Cell[CellGroupData[{
+Cell[1067, 35, 234, 3, 38, "Subsection",ExpressionUUID->"a69912f9-0ff4-4980-84ea-968362691e0f"],
+Cell[1304, 40, 269, 5, 45, "Subsubsection",ExpressionUUID->"95f582e6-62bf-4f27-aa2c-e4ad3afad450"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1610, 50, 183, 4, 67, "Section",ExpressionUUID->"4f3b20f2-54a1-408c-9eee-8880911ba6d4"],
+Cell[1796, 56, 394, 10, 104, "Text",ExpressionUUID->"9e685714-cafe-4e62-a2c9-567b35921789"]
+}, Open  ]],
+Cell[2205, 69, 206, 4, 67, "Section",ExpressionUUID->"449b47a7-0534-4bd7-8e12-53d1e273af94"]
+}, Open  ]]
+}
+]
+*)
+
